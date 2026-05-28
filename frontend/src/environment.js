@@ -5,4 +5,4 @@ const server = IS_PROD ?
     "https://zoom-backend-dpts.onrender.com"
 
 
-export default server;
+export default server;  
